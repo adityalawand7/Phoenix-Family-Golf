@@ -43,7 +43,7 @@ Welcome to the Sidcup Family Golf project, a multipurpose golf facility website 
 
 ## Credits
 
-- Project developed by [Aditya Lawand]
+- Project developed by Aditya Lawand.
 - Icons by [Remixicon](https://remixicon.com/)
 - Animation by [GSAP](https://greensock.com/gsap/)
 
@@ -51,4 +51,4 @@ Welcome to the Sidcup Family Golf project, a multipurpose golf facility website 
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to explore, contribute, and use this project as a template for your web development endeavors. If you have any questions or suggestions, please open an issue or contact [lawandaditya007@gmail.com].
+Feel free to explore, contribute, and use this project as a template for your web development endeavors. If you have any questions or suggestions, please open an issue or contact lawandaditya007@gmail.com.
