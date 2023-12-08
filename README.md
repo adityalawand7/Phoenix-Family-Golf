@@ -1,6 +1,5 @@
 # Phoenix Family Golf - Multipurpose Golf Facility
 
-![Sidcup Family Golf](https://eiwgew27fhz.exactdn.com/wp-content/uploads/2023/02/logo-white.svg)
 
 Welcome to the Sidcup Family Golf project, a multipurpose golf facility website designed for an immersive user experience. This front-end web development project incorporates HTML, CSS, and JavaScript to create a visually appealing and interactive platform. The project features include a video background, dynamic hover effects, and smooth scrolling animations.
 
